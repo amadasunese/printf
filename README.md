@@ -1,6 +1,6 @@
 0x11. C - printf
 
-Group Project  Stanley Emegbusim, Ese Amadasun
+Group Project by  Stanley Emegbusim, Ese Amadasun
 
 
 Tasks
